@@ -5,3 +5,4 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 ## Project 2: Data visualization
 This section of the repository focuses on the Data Visualization project from Python Crash Course, which explores the art of turning raw, complex datasets into meaningful visual narratives. Using industry-standard libraries like Matplotlib and Plotly, the project transitions from generating internal data—such as simulating mathematical Random Walks and dice-roll probabilities—to processing real-world CSV and JSON files to map global weather trends and seismic activity. The workflow concludes with a deep dive into APIs, where live data is fetched from GitHub to create interactive, clickable visualizations of the world’s most-starred Python repositories. This project demonstrates a full mastery of data cleaning, technical documentation literacy, and the creation of presentation-ready, interactive graphics.
 ## Project 3: Web applications
+
